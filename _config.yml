@@ -3,7 +3,7 @@ description: >
   This is my awesome Jekyll site.
 baseurl: "/greenline" # the subpath of your site
 url: "https://flreezeflow.github.io" # the base hostname & protocol for your site
-markdown: kramdown
+markdown: markdown
 theme: minima
 
 # Build settings
