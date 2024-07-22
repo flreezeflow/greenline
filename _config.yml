@@ -1,0 +1,10 @@
+title: My Jekyll Site
+description: >
+  This is my awesome Jekyll site.
+baseurl: "/greenline" # the subpath of your site
+url: "https://flreezeflow.github.io" # the base hostname & protocol for your site
+markdown: kramdown
+theme: minima
+
+# Build settings
+markdown: kramdown
